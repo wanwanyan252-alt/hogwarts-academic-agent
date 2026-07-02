@@ -1,5 +1,6 @@
 # 人格化 AI 选课助手
-<img width="865" height="682" alt="image" src="https://github.com/user-attachments/assets/26c63a87-95d9-4afb-ba66-12e42b4823ee" />
+<img width="2266" height="1257" alt="image" src="https://github.com/user-attachments/assets/0c21fd54-4cac-4b5a-90d6-ae8c96d4a5ec" />
+
 
 这是一个课程项目展示版 AI Agent 系统。项目目前已经完成第一版：支持 DeepSeek 对话模型、本地 BGE Embedding、FAISS 向量检索、PDF RAG 知识库、多工具调用、三人格对话系统，并提供 CLI 与 Streamlit 前端两个入口。
 
